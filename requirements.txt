@@ -1,0 +1,4 @@
+speech_recognition
+pyttsx3
+openai
+dotenv
